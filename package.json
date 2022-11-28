@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://pav0107.github.io/shopping_cart/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
